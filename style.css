@@ -1,0 +1,21 @@
+.text{
+
+    margin-top: 10%;
+    margin-left: 40%;
+    font-size: 2.5rem;
+}
+.container{
+    margin-left: 35%;
+    margin-top: 7%;
+}
+.container span {
+    
+    border: 3px solid black;
+    padding: 50px;
+    font-size: xx-large;
+    background: rgb(97, 248, 248);
+    color: sandybrown;
+}
+body{
+    background: blueviolet;
+}
