@@ -1,22 +1,29 @@
-.text{
+    .text{
 
-    margin-top: 10%;
-    margin-left: 40%;
-    font-size: 2.5rem;
-}
-.container{
-    margin-left: 30%;
-    margin-top: 7%;
-}
-.container span {
-    
-    border: 3px solid black;
-    padding: 50px;
-    font-size: 3rem;
-    background: rgb(97, 248, 248);
-    color: sandybrown;
-    font-weight: bolder;
-}
-body{
-    background: blueviolet;
-}
+        margin-top: 10%;
+        margin-left: 40%;
+        font-size: 2.5rem;
+    }
+    .container{
+        margin-left: 30%;
+        margin-top: 7%;
+    }
+    .container span {
+        
+        border: 3px solid black;
+        padding: 50px;
+        font-size: 3rem;
+        background: rgb(97, 248, 248);
+        color: sandybrown;
+        font-weight: bolder;
+        transition:1s;
+        }
+    body{
+        background: blueviolet;
+    }
+/* .seconds:hover{
+    background: yellow;
+    transform-style:preserve-3d; 
+    transition:0.8s;
+    transform: rotateY(180deg);
+} */
