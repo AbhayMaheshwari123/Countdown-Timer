@@ -12,9 +12,10 @@
     
     border: 3px solid black;
     padding: 50px;
-    font-size: xx-large;
+    font-size: 3rem;
     background: rgb(97, 248, 248);
     color: sandybrown;
+    font-weight: bolder;
 }
 body{
     background: blueviolet;
